@@ -3,7 +3,7 @@ This is a quantum visualisation tool that help you get a grasp of quantum states
 
 # Installation
 
-To tun the program go to ![Builds](https://drive.google.com/drive/folders/171hFvPjeD_OJeHCSoSJDhymYpGQsjr3h?usp=sharing). 
+To tun the program go to [Builds](https://drive.google.com/drive/folders/171hFvPjeD_OJeHCSoSJDhymYpGQsjr3h?usp=sharing). 
 Then download the appropriate version for your OS, for Windows you have to run the .exe file and for Linux you will have to run the .x86_64 file.
 Mac version could be added quickly if needed just send me an e-mail at adem.rahal@edu.devinci.fr
 
