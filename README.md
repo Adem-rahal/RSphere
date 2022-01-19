@@ -3,7 +3,9 @@ This is a quantum visualisation tool that help you get a grasp of quantum states
 
 # Installation
 
-To tun the program go to the Build folder and choose your OS.
+To tun the program go to ![Builds](https://drive.google.com/drive/folders/171hFvPjeD_OJeHCSoSJDhymYpGQsjr3h?usp=sharing). 
+Then download the appropriate version for your OS, for Windows you have to run the .exe file and for Linux you will have to run the .x86_64 file.
+Mac version could be added quickly if needed just send me an e-mail at adem.rahal@gmail.com
 
 # Indication on the software
 
@@ -18,3 +20,5 @@ This is a very simple implementation more gates and options will be added soon.
 # Gates customisation
 
 To add you own custom gates you can go the Asset/Scripts/QubitState.cs script and scroll down to the gate section part. To add your gate you should make sure first that it is unitary then you can fill up the gate_matrix[] variable with your own values make sure to use the Complex class to do so some examples are already implemented. The default gates represents the Identity matrix.
+
+Then you can rebuild the Unity project on Unity with all the files (an easier way to do this might be implemented in the futur).
