@@ -1,5 +1,5 @@
 # RSphere
-This is a quantum visualisation tool that help you get a grasp of quantum states with a more intuitive approach. [PROJECT PAGE](https://dvic.devinci.fr/project/RSphere)
+This is a quantum visualisation tool that help you get a grasp of quantum states with a more intuitive approach. Get more inormation here: [PROJECT PAGE](https://dvic.devinci.fr/project/RSphere)
 
 # Installation
 
