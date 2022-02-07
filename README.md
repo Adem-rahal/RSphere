@@ -1,7 +1,7 @@
 # RSphere
 This is a quantum visualisation tool that help you get a grasp of quantum states with a more intuitive approach. Get more inormation here: [PROJECT PAGE](https://dvic.devinci.fr/project/RSphere)
 
-[![R Sphere video](https://img.youtube.com/vi/BST--Oy6bvo/0.jpg)](https://www.youtube.com/watch?v=BST--Oy6bvo)
+[![R Sphere video](https://img.youtube.com/vi/BST--Oy6bvo/0.jpg)](https://www.youtube.com/watch?v=BST--Oy6bvo) <------- **VIDEO**
 
 
 # Installation
